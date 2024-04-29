@@ -1,6 +1,6 @@
 # front-ts
 
-This template should help get you started developing with Vue 3 in Vite.
+Simple proof of concept for Vue and TypeScript frontent to use JWT when comsuming a backend API
 
 ## Recommended IDE Setup
 
