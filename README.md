@@ -2,6 +2,12 @@
 
 Simple proof of concept for Vue and TypeScript frontent to use JWT when comsuming a backend API
 
+## Todo:
+
+- Unit Tests
+- Component Tests
+- E2E Test
+
 ## Project Setup
 
 ```sh
