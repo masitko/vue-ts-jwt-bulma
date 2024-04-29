@@ -1,0 +1,8 @@
+import { defineStore } from 'pinia'
+import { auth } from './auth'
+
+const store = defineStore(
+  'auth', auth
+)
+
+export default store
